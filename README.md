@@ -2,10 +2,10 @@
 
 
 
-- 🔭 Hoje estudo para trabalhar como front-end
-- 🌱 Estudando JavaScript
+- 🎓 Hoje estudo para trabalhar como front-end
+- 👨‍🎓 Estudando JavaScript
 - 📫 Contate-me no email: thiagovsl001@gmail.com
-- 😄 Pronouns: ele/dele
+- 🙋‍♂️ Pronouns: ele/dele
 
 <div>
   <a href="https://github.com/rafaballerini">
