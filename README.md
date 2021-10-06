@@ -3,7 +3,7 @@
 
 
 - 🎓 Hoje estudo para trabalhar como front-end
-- 👨‍🎓 Estudando JavaScript
+- 👨‍🎓 Estudando HTML5 / CSS3
 - 📫 Contate-me no email: thiagovsl001@gmail.com
 - 🙋‍♂️ Pronouns: ele/dele
 
