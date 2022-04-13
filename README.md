@@ -5,7 +5,7 @@
 - 🎓 Today I study for one day to work as a Front-end
 - 👨‍🎓 Language JavaScript Student
 - 📫 Contact me by email: devthiagocontato@gmail.com
-- 🙋‍♂️ Pronouns: ele/dele
+- 🙋‍♂️ Pronouns: him/his
 
 <div>
   <a href="https://github.com/thiagosouzaa">
